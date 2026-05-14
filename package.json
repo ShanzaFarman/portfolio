@@ -1,9 +1,10 @@
 {
-  "name": "sarim",
+  "homepage": "https://ShanzaFarman.github.io/portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ShanzaFarman.github.io/shanza-portfolio",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
